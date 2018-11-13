@@ -1,0 +1,124 @@
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\nunit.framework.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEditor.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.VR.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Mono.Cecil.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Unity.DataContract.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEditor.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.UI.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\nunit.framework.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\Temp\bin\Debug\UnityEngine.VR.xml
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\obj\Debug\Assembly-CSharp.dll
+C:\STS\Vive Development\Thormcliff\VR_Meeting_GN_2018_07_31\Demo\obj\Debug\Assembly-CSharp.pdb
+D:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Assembly-CSharp.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\nunit.framework.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEditor.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.UI.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.VR.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.DataContract.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.CecilTools.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEditor.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.UI.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\nunit.framework.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.VR.xml
+D:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.pdb
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Assembly-CSharp.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\nunit.framework.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEditor.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.UI.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.VR.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.DataContract.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Unity.CecilTools.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEditor.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.UI.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\nunit.framework.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\_\_Programming\_Projects\Demo\Temp\bin\Debug\UnityEngine.VR.xml
+E:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.dll
+E:\_\_Programming\_Projects\Demo\obj\Debug\Assembly-CSharp.pdb
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Assembly-CSharp.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\nunit.framework.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEditor.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.UI.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.VR.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Mono.Cecil.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Unity.DataContract.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Unity.CecilTools.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEditor.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.UI.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\nunit.framework.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\Temp\bin\Debug\UnityEngine.VR.xml
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\obj\Debug\Assembly-CSharp.dll
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\obj\Debug\Assembly-CSharp.pdb
+C:\STS\Vive Development\Latest\Color Sync Multiplayer\editor\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
